@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mau5.5", "Mau5.5\Mau5.5.csproj", "{603B6AF8-56DE-4CF7-B005-E51D27645BA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{603B6AF8-56DE-4CF7-B005-E51D27645BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{603B6AF8-56DE-4CF7-B005-E51D27645BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{603B6AF8-56DE-4CF7-B005-E51D27645BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{603B6AF8-56DE-4CF7-B005-E51D27645BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45DA1DB0-B03C-4DED-A867-237D400408B0}
+	EndGlobalSection
+EndGlobal
