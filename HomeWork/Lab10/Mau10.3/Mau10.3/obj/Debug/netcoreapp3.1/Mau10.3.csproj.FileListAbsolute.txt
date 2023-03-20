@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\HomeWork\lab10\Mau10.3\Mau10.3\bin\Debug\netcoreapp3.1\Mau10.3.exe
+C:\Users\LENOVO\source\repos\HomeWork\lab10\Mau10.3\Mau10.3\bin\Debug\netcoreapp3.1\Mau10.3.deps.json
+C:\Users\LENOVO\source\repos\HomeWork\lab10\Mau10.3\Mau10.3\bin\Debug\netcoreapp3.1\Mau10.3.runtimeconfig.json
+C:\Users\LENOVO\source\repos\HomeWork\lab10\Mau10.3\Mau10.3\bin\Debug\netcoreapp3.1\Mau10.3.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\HomeWork\lab10\Mau10.3\Mau10.3\bin\Debug\netcoreapp3.1\Mau10.3.dll
+C:\Users\LENOVO\source\repos\HomeWork\lab10\Mau10.3\Mau10.3\bin\Debug\netcoreapp3.1\Mau10.3.pdb
+C:\Users\LENOVO\source\repos\HomeWork\lab10\Mau10.3\Mau10.3\obj\Debug\netcoreapp3.1\Mau10.3.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\HomeWork\lab10\Mau10.3\Mau10.3\obj\Debug\netcoreapp3.1\Mau10.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\HomeWork\lab10\Mau10.3\Mau10.3\obj\Debug\netcoreapp3.1\Mau10.3.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\HomeWork\lab10\Mau10.3\Mau10.3\obj\Debug\netcoreapp3.1\Mau10.3.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\HomeWork\lab10\Mau10.3\Mau10.3\obj\Debug\netcoreapp3.1\Mau10.3.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\HomeWork\lab10\Mau10.3\Mau10.3\obj\Debug\netcoreapp3.1\Mau10.3.dll
+C:\Users\LENOVO\source\repos\HomeWork\lab10\Mau10.3\Mau10.3\obj\Debug\netcoreapp3.1\Mau10.3.pdb
+C:\Users\LENOVO\source\repos\HomeWork\lab10\Mau10.3\Mau10.3\obj\Debug\netcoreapp3.1\Mau10.3.genruntimeconfig.cache
