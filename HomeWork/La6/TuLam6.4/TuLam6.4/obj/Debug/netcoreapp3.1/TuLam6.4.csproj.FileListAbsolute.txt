@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\lab6\TuLam6.4\TuLam6.4\bin\Debug\netcoreapp3.1\TuLam6.4.exe
+C:\Users\LENOVO\source\repos\lab6\TuLam6.4\TuLam6.4\bin\Debug\netcoreapp3.1\TuLam6.4.deps.json
+C:\Users\LENOVO\source\repos\lab6\TuLam6.4\TuLam6.4\bin\Debug\netcoreapp3.1\TuLam6.4.runtimeconfig.json
+C:\Users\LENOVO\source\repos\lab6\TuLam6.4\TuLam6.4\bin\Debug\netcoreapp3.1\TuLam6.4.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\lab6\TuLam6.4\TuLam6.4\bin\Debug\netcoreapp3.1\TuLam6.4.dll
+C:\Users\LENOVO\source\repos\lab6\TuLam6.4\TuLam6.4\bin\Debug\netcoreapp3.1\TuLam6.4.pdb
+C:\Users\LENOVO\source\repos\lab6\TuLam6.4\TuLam6.4\obj\Debug\netcoreapp3.1\TuLam6.4.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\lab6\TuLam6.4\TuLam6.4\obj\Debug\netcoreapp3.1\TuLam6.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\lab6\TuLam6.4\TuLam6.4\obj\Debug\netcoreapp3.1\TuLam6.4.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\lab6\TuLam6.4\TuLam6.4\obj\Debug\netcoreapp3.1\TuLam6.4.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\lab6\TuLam6.4\TuLam6.4\obj\Debug\netcoreapp3.1\TuLam6.4.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\lab6\TuLam6.4\TuLam6.4\obj\Debug\netcoreapp3.1\TuLam6.4.dll
+C:\Users\LENOVO\source\repos\lab6\TuLam6.4\TuLam6.4\obj\Debug\netcoreapp3.1\TuLam6.4.pdb
+C:\Users\LENOVO\source\repos\lab6\TuLam6.4\TuLam6.4\obj\Debug\netcoreapp3.1\TuLam6.4.genruntimeconfig.cache
